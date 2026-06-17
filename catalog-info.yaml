@@ -7,5 +7,5 @@ metadata:
     backstage.io/techdocs-ref: dir:.
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: archived
   owner: eggmans
