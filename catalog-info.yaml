@@ -4,6 +4,7 @@ metadata:
   name: dags
   annotations:
     github.com/project-slug: Vercevo/dags
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
