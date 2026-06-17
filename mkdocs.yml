@@ -1,0 +1,3 @@
+site_name: dags
+plugins:
+  - techdocs-core
