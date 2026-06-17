@@ -6,6 +6,6 @@ metadata:
     github.com/project-slug: Vercevo/dags
     backstage.io/techdocs-ref: dir:.
 spec:
-  type: other
+  type: airflow-dags
   lifecycle: archived
   owner: eggmans
